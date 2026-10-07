@@ -1,0 +1,35 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell temporary files
+*.tmp
+*.temp
+
+# Logs and generated reports
+*.log
+*.csv
+*.txt
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Backup files
+*.bak
+*.old
+
+# Temporary folders
+temp/
+tmp/
+
+# Local environment files
+.env
+*.local
+
+# Virtual machine files
+*.vdi
+*.vmdk
+*.vbox
+*.ova
